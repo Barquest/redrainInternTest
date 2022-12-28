@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - SPPickup
+  - PowerUp
+  - Musuh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Pesawat
+    uniqueID: 2092953473
+    locked: 0
+  - name: Senjata
+    uniqueID: 2403479627
+    locked: 0
+  - name: Peluru
+    uniqueID: 76423287
+    locked: 0
+  - name: PowerUp
+    uniqueID: 3296000411
+    locked: 0

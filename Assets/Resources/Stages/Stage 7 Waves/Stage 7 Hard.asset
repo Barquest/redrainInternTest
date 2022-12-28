@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a6f83b4fe75c114b844599d1a5464b9, type: 3}
+  m_Name: Stage 7 Hard
+  m_EditorClassIdentifier: 
+  waves:
+  - {fileID: 11400000, guid: d8c6d50eed6089c4aab59d7d29dfdace, type: 2}
+  - {fileID: 11400000, guid: 90359ca992316b643943ac205a26a791, type: 2}
+  - {fileID: 11400000, guid: 013d2d770f2448040b29e37efe285316, type: 2}
+  - {fileID: 11400000, guid: 109fee3b5a77d624fa0982492eb05586, type: 2}
